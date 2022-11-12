@@ -1,4 +1,4 @@
-Usage
+Machine Learning
 =====
 
 .. _installation:

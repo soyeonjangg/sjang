@@ -1,6 +1,3 @@
-Welcome to Soyeon's Personal Website!
-===================================
-
 Hello, I'm Soyeon👋
 -------------------
 
@@ -31,5 +28,5 @@ Contents
 
 .. toctree::
 
-   usage
+   machinelearning
    api
